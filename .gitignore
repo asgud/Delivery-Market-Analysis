@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+*.env
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+
+# Exported CSV files folder
+export_csv_files/
+
+# SQL queries
+query.sql
+
